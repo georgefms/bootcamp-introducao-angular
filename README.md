@@ -1,4 +1,6 @@
-# IntroducaoAngular
+# Introducao-Angular
+
+Este repositório destina-se a minhas primeiras implementações utilizando a tecnologia.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
